@@ -10,7 +10,7 @@ Config.Notify = 'qb'        -- 'qb', 'esx', 'ox'
 Config.Target = 'qb'        -- 'qb', 'ox'
 Config.Inventory = 'qb'     -- 'qb', 'esx', 'ox'
 Config.ProgessBar = 'qb'    -- 'qb', 'ox', 'none'
-Config.Log = 'qb'           -- 'qb', 'none'
+Config.Log = 'none'           -- 'qb', 'none'
 
 Config.ItemPlacementModeRadius = 10.0 -- Object can only be placed within this radius of the player
 
